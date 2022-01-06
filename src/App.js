@@ -22,7 +22,7 @@ const App = () => {
         } catch(err) { 
             setResult("Error")
         }
-    }//hello folks
+    }
 
     return(
           <div>
